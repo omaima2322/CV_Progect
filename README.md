@@ -1,2 +1,4 @@
-# CV_Progect
-My first code HTML
+# My CV Project
+
+You can see the live version of my CV here: https://omaima2322.github.io/CV_Progect/
+
